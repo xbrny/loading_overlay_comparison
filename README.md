@@ -1,4 +1,5 @@
 # Loading overlay comparison
+opinionated and based on my need
 
 ## loader_overlay (8/10)
 - global: yes [above MaterialApp]
